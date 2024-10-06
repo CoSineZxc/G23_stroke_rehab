@@ -17,3 +17,4 @@ BR41N.IO HACKATHON 2024
 
 
 ## Previous results
+![](img/prev_results.png)
